@@ -1,0 +1,4 @@
+33107|12345678|Rahid|ontirahid@yahoo.com|2020-01-16|male|b+
+33094|rowdyrathore|Benu|ontirahid80@gmail.com|2020-01-16|female|o+
+33108|12345678|Asif|ontirahid@yahoo.com|1994-05-11|male|b+
+3320|12345678|admin|anisul1957@gmail.com|2020-03-04|male|o+

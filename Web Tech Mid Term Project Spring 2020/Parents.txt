@@ -1,0 +1,2 @@
+3308|12345678|Hossain Arif|ontirahid@gmail.com|2019-10-08|male||bus
+2801|123456789|Khaleda Akter|ontirahid@gmail.com|2020-03-04|female|a+|Medical Doctor
